@@ -6,7 +6,7 @@
 <p align="center">Github explorer is a tool to find repositories in github and visualize the issues about found repository</p>
 
 <p align="center">
-  <img src="image1.png" height="600" width="630" alt="git_explorer" />
+  <img src="image1.png" height="853" width="735" alt="git_explorer" />
 </p>
 
 
