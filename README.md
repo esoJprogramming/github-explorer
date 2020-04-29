@@ -1,12 +1,14 @@
 <h1 align="center">
+  <img src="https://image.flaticon.com/icons/png/512/25/25231.png"
+       width="27px" height="27px"
+  />
   Github explorer
 </h1>
-
 
 <p align="center">Github explorer is a tool to find repositories in github and visualize the issues about found repository</p>
 
 <p align="center">
-  <img src="image1.png" alt="git_explorer" />
+  <img src="public/github_explorer.gif" alt="git_explorer" />
 </p>
 
 
