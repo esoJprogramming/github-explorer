@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://image.flaticon.com/icons/png/512/25/25231.png"
-       width="27px" height="27px"
+       width="26px" height="26px"
   />
   Github explorer
 </h1>
@@ -12,7 +12,7 @@
 </p>
 
 
-## To clone and initialize this project:
+## To initialize this project:
 
 * Clone this repository
 * In the same terminal, run:
